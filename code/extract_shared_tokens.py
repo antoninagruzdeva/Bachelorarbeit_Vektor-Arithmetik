@@ -1,5 +1,3 @@
-# code/extract_shared_tokens.py
-
 from transformer_lens import HookedTransformer, HookedEncoder
 from gensim.models import KeyedVectors
 
