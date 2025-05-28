@@ -2,7 +2,6 @@
 
 from transformer_lens import HookedTransformer, HookedEncoder
 from gensim.models import KeyedVectors
-import os
 
 def load_vocabularies():
     models = {
