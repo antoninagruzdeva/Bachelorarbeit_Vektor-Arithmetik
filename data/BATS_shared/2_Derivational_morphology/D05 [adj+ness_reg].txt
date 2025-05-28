@@ -1,0 +1,8 @@
+aware	awareness
+conscious	consciousness
+effective	effectiveness
+happy	happiness
+mad	madness
+sad	sadness
+serious	seriousness
+weak	weakness

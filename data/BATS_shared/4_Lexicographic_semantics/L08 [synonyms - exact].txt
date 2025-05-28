@@ -1,0 +1,16 @@
+bicycle	bike/wheel/cycle
+cloth	fabric/material/textile
+dollars	bucks
+father	dad/daddy
+help	aid/assist
+intelligent	clever/smart
+jewel	gem/stone
+monument	memorial
+new	modern/recent
+package	parcel/pack/packet/bundle
+railway	railroad
+rational	logical/coherent/reasonable/sane
+reasonable	sensible
+rock	stone
+sofa	couch/lounge
+style	manner/mode/fashion/way

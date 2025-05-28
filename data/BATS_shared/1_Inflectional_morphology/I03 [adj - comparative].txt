@@ -1,0 +1,4 @@
+cheap	cheaper
+happy	happier
+strong	stronger
+weak	weaker

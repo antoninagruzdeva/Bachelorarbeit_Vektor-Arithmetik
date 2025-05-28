@@ -1,0 +1,4 @@
+bee	buzz/hum
+fly	buzz
+seal	bark
+whale	sing

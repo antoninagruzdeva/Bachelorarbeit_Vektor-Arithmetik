@@ -1,0 +1,16 @@
+accuse	accusation
+admire	admiration
+compute	computation
+continue	continuation
+declare	declaration
+determine	determination
+examine	examination
+explore	exploration
+imagine	imagination
+inspire	inspiration
+observe	observation
+occupy	occupation
+organize	organization
+prepare	preparation
+restore	restoration
+stabilize	stabilization

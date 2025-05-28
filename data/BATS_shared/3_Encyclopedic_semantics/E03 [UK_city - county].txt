@@ -1,0 +1,9 @@
+bath	somerset
+bradford	yorkshire
+brighton	sussex
+hull	yorkshire
+leeds	yorkshire
+plymouth	devon
+sheffield	yorkshire
+wells	somerset
+york	yorkshire

@@ -1,0 +1,11 @@
+ape	baby/infant
+bear	cub
+buffalo	calf
+elephant	calf
+goat	kid
+lion	cub
+monkey	infant
+seal	pup
+shark	cub/pup
+tiger	cub
+whale	calf

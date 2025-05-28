@@ -1,0 +1,4 @@
+bus	seats/conductor/window/driver/roof
+byte	bit
+comb	teeth/shaft/grip/tooth/handle
+dollar	cent

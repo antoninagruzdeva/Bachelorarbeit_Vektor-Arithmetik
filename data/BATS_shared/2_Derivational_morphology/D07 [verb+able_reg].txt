@@ -1,0 +1,11 @@
+accept	acceptable
+adjust	adjustable
+afford	affordable
+consider	considerable
+enjoy	enjoyable
+identify	identifiable
+predict	predictable
+rely	reliable
+renew	renewable
+sustain	sustainable
+vary	variable

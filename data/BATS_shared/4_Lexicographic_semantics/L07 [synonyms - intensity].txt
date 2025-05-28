@@ -1,0 +1,8 @@
+excited	agitated/nervous
+house	palace/castle
+lake	sea/ocean
+pain	torment/torture/agony
+pony	horse
+sea	ocean
+snack	meal/eat
+tired	exhausted/drained
