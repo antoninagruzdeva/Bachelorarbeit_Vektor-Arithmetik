@@ -27,14 +27,12 @@ def filter_bats_to_shared(bats_root, shared_tokens, output_dir):
                 for line in fin:
                     if line.startswith(":") or not line.strip():
                         continue
-                    try:
-                        a, b_combo = line.strip().split()
-                        bs = b_combo.split("/")
-                        if a in shared_tokens and all(b in shared_tokens for b in bs):
-                            fout.write(f"{a}\t{b_combo}\n")
-                            lines_written += 1
-                    except ValueError:
-                        print(f"Formatfehler in Datei: {inp}, Zeile: {line.strip()}")
+
+                    a, b_combo = line.strip().split()
+                    bs = b_combo.split("/")
+                    if a in shared_tokens and all(b in shared_tokens for b in bs):
+                        fout.write(f"{a}\t{b_combo}\n")
+                        lines_written += 1
 
             if lines_written == 0:
                 os.remove(out)
@@ -49,4 +47,5 @@ def filter_bats_to_shared(bats_root, shared_tokens, output_dir):
 if __name__ == "__main__":
     shared = load_shared_tokens()
     filter_bats_to_shared("BATS_3.0", shared, "BATS_shared")
+
 
