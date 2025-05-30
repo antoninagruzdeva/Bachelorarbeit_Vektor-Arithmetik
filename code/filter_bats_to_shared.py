@@ -1,8 +1,5 @@
 import os
-
-def load_shared_tokens(path="shared_tokens.txt"):
-    with open(path, "r", encoding="utf-8") as f:
-        return set(line.strip() for line in f if line.strip())
+from shared_token_utils import load_shared_tokens
 
 def filter_bats_to_shared(bats_root, shared_tokens, output_dir):
     os.makedirs(output_dir, exist_ok=True)
@@ -45,7 +42,7 @@ def filter_bats_to_shared(bats_root, shared_tokens, output_dir):
             print(f"   - {file}")
 
 if __name__ == "__main__":
-    shared = load_shared_tokens()
+    shared = load_shared_tokens("shared_tokens.txt")
     filter_bats_to_shared("BATS_3.0", shared, "BATS_shared")
 
 
