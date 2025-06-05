@@ -1,0 +1,1225 @@
+model,method,category,subcategory,accuracy,similarity
+bert_embs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9991836734693877,0.8152522686747165
+bert_embs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9154334038054969,0.8133287216100076
+bert_embs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8348353952169418
+bert_embs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.8167269229888916
+bert_embs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.8755418507217549
+bert_embs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9918367346938776,0.8416439518271159
+bert_embs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.9726530612244898,0.8312351433259322
+bert_embs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9995374653098983,0.840968223729105
+bert_embs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9685283687943262,0.8012454617760001
+bert_embs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9908212560386473,0.8291563140014973
+bert_embs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+bert_embs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7114942528735633,0.7909082441029526
+bert_embs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8694503171247357,0.7840756073911139
+bert_embs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.8571428571428571,0.765774047623078
+bert_embs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.2636363636363636,0.7618063811598152
+bert_embs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.44565217391304346,0.7533527319508839
+bert_embs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.6875,0.7763624960725958
+bert_embs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.7862068965517242,0.7668480204734188
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.951058201058201,0.7801103223845757
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.4782608695652174,0.734289758461566
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.5138888888888888,0.726706181023572
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.2573099415204678,0.705219372429631
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.20261437908496732,0.7272434407664884
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.661319073083779,0.7005806026272375
+bert_embs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.8986928104575164,0.8116914053396745
+bert_embs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.10714285714285714,0.6804043209111249
+bert_embs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.1743951612903226,0.6933970203289407
+bert_embs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+bert_embs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.42857142857142855,0.721470241745313
+bert_embs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.65,0.7354524288422022
+bert_embs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5316205533596838,0.7391304495609383
+bert_embs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,1.0,0.8777534484863281
+bert_embs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9090909090909091,0.8759104132652282
+bert_embs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.871511235833168
+bert_embs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.8167268931865692
+bert_embs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.9238837239693622
+bert_embs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,1.0,0.8993556356430054
+bert_embs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,1.0,0.8925421893596649
+bert_embs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,1.0,0.8978197967752497
+bert_embs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9791666666666666,0.8696736262199727
+bert_embs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,1.0,0.8951675036679143
+bert_embs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+bert_embs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7333333333333333,0.8597968491640958
+bert_embs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8863636363636364,0.8533216500893618
+bert_embs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.8181318044662476
+bert_embs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.36363636363636365,0.8282160013914108
+bert_embs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5416666666666666,0.820445913534898
+bert_embs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.75,0.8463532328605652
+bert_embs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9,0.8385518215320729
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,1.0,0.8463265086923327
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.9565217391304348,0.8125156706029718
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.8888888888888888,0.8288331478834152
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.8421052631578947,0.775966789573431
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.5,0.8191217515203688
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.6363636363636364,0.7810121093477521
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.25,0.7712581157684326
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.6666666666666666,0.7714490443468094
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.9117647058823529,0.7947174541411861
+bert_embs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.9444444444444444,0.8693056597429163
+bert_embs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.21428571428571427,0.7329468329747518
+bert_embs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.28125,0.7534812291463217
+bert_embs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+bert_embs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.375,0.7916789054870605
+bert_embs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.8125,0.8026478061309228
+bert_embs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.6086956521739131,0.8061439692974091
+bert_embs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,1.0,0.8433267974853516
+bert_embs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9318181818181818,0.8361969880941438
+bert_embs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8340782076120377
+bert_embs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7694126069545746
+bert_embs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.8959363759780417
+bert_embs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.98,0.879229509100622
+bert_embs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.94,0.8754168850310305
+bert_embs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,1.0,0.8677246849587623
+bert_embs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9166666666666666,0.8536260615695607
+bert_embs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9130434782608695,0.8757017297404153
+bert_embs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+bert_embs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.5666666666666667,0.8394821426447701
+bert_embs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8409090909090909,0.8131732682924013
+bert_embs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.875,0.8024845463888985
+bert_embs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.2727272727272727,0.8076303005218506
+bert_embs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.3333333333333333,0.8158423751592636
+bert_embs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.5,0.8525100275874138
+bert_embs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.5666666666666667,0.8412023958037881
+bert_embs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.7857142857142857,0.8218008496544578
+bert_embs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.043478260869565216,0.7963053584098816
+bert_embs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.2222222222222222,0.8028856515884399
+bert_embs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.0,
+bert_embs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.16666666666666666,0.7890815734863281
+bert_embs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+bert_embs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+bert_embs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+bert_embs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.0,
+bert_embs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.8888888888888888,0.8445682749152184
+bert_embs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.0,
+bert_embs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.125,0.7751775681972504
+bert_embs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+bert_embs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.5,0.7793197184801102
+bert_embs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.875,0.7999784222670964
+bert_embs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.6086956521739131,0.8088321302618299
+bert_embs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.30612244897959184,0.27668670190374056
+bert_embs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.26374207188160675,0.26531287514136165
+bert_embs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.9166666666666666,0.28935955600305036
+bert_embs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.398058220744133
+bert_embs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.8337585034013606,0.25664404784611816
+bert_embs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.5314285714285715,0.24881941004557542
+bert_embs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.5314285714285715,0.27167428486312406
+bert_embs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.6378353376503237,0.23605304345909972
+bert_embs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.299645390070922,0.26259648429571525
+bert_embs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.4323671497584541,0.32687495405780537
+bert_embs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+bert_embs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.19310344827586207,0.21466977370991594
+bert_embs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.19291754756871035,0.2462742227805804
+bert_embs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.19642857142857142,0.23308614709160544
+bert_embs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.06363636363636363,0.18825142298425948
+bert_embs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.08152173913043478,0.20396936701403723
+bert_embs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.11666666666666667,0.19649203440972737
+bert_embs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.0839080459770115,0.21300945931101498
+bert_embs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.40476190476190477,0.26603199541568756
+bert_embs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.40118577075098816,0.29316235997993956
+bert_embs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.2916666666666667,0.13029127851838157
+bert_embs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.29239766081871343,0.2923504422605038
+bert_embs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.03594771241830065,0.16240094398910349
+bert_embs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.05454545454545454,0.15484193712472916
+bert_embs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+bert_embs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.026143790849673203,0.1440972751006484
+bert_embs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.7655971479500892,0.27026848722253605
+bert_embs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.5261437908496732,0.28041082657642247
+bert_embs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.08862433862433862,0.1447829411212188
+bert_embs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.04838709677419355,0.17660484618196884
+bert_embs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+bert_embs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+bert_embs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.004166666666666667,0.07848625630140305
+bert_embs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.01383399209486166,0.13105164840817451
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9183673469387755,0.748417432917489
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8768498942917548,0.7546155905781057
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8004339983065923
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7528620958328247
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.8673469387755102,0.8200986169424711
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9171428571428571,0.7881551479094284
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.7604081632653061,0.7570805454919624
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.8973172987974098,0.8056692768310764
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.6281028368794326,0.7459406151515796
+gpt2_cleaned_embs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.7120772946859903,0.7685640331362772
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.5,0.7537654042243958
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7471264367816092,0.7522380673885345
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.6575052854122622,0.7413632568822413
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.8214285714285714,0.723562874223875
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.4909090909090909,0.7256261584935365
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5307971014492754,0.7244463935240137
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.7541666666666667,0.7475423987399149
+gpt2_cleaned_embs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.8701149425287357,0.7413990742464204
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9497354497354498,0.8178041862910173
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.6818181818181818,0.7507430181987044
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.4166666666666667,0.7360731740792592
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.37719298245614036,0.7153795611026675
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.5098039215686274,0.7273205751791979
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.01818181818181818,0.6821976602077484
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.02287581699346405,0.6550743920462472
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.3850267379679144,0.6878748525072027
+gpt2_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.630718954248366,0.7292937426369425
+gpt2_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.07671957671957672,0.6857322372239212
+gpt2_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.16028225806451613,0.7005639942187183
+gpt2_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.375,0.6982194979985555
+gpt2_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.3541666666666667,0.6959030943758348
+gpt2_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.40711462450592883,0.7160971263079967
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.98,0.8160073769335844
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9318181818181818,0.8197618490312157
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8397012650966644
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7528620958328247
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.8775510204081632,0.8835688385852548
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.98,0.8518353627652538
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.9,0.8206992626190186
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9148936170212766,0.8718698606934658
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.7916666666666666,0.8090019947604129
+gpt2_cleaned_embs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.8478260869565217,0.8358854009554937
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.5,0.7537654042243958
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.8333333333333334,0.8184564685821534
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.9090909090909091,0.8003173172473907
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.7750512883067131
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.6363636363636364,0.7827715533120292
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.7083333333333334,0.787567650570589
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8125,0.815950347827031
+gpt2_cleaned_embs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9333333333333333,0.8119394098009381
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9642857142857143,0.8784551598407604
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,1.0,0.8285240427307461
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.8888888888888888,0.8148824572563171
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.9473684210526315,0.7793644832240211
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.8888888888888888,0.7952027469873428
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.6363636363636364,0.7293788875852313
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.5,0.7232067286968231
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.6111111111111112,0.7489879727363586
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.9411764705882353,0.7568113394081593
+gpt2_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.7222222222222222,0.7916461366873521
+gpt2_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.21428571428571427,0.7287359436353048
+gpt2_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.375,0.7497817824284235
+gpt2_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.625,0.7479318022727967
+gpt2_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.4375,0.7573447057179042
+gpt2_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5652173913043478,0.7810927354372464
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9,0.8038760158750746
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8636363636363636,0.8048759714553231
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8010842651128769
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7414668798446655
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.8979591836734694,0.8276457204060121
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.92,0.8148706231428229
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.78,0.7992347983213571
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.7872340425531915,0.8148916605356578
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.2708333333333333,0.8185044527053833
+gpt2_cleaned_embs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.43478260869565216,0.8437159270048141
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.5,0.8426638841629028
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7,0.8005211324918837
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.5909090909090909,0.7910216794564173
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.7558519020676613
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.45454545454545453,0.7602020025253295
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.20833333333333334,0.7839466214179993
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.5,0.8150676786899567
+gpt2_cleaned_embs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.7,0.7981983423233032
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.8928571428571429,0.8391689634323121
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.043478260869565216,0.7988041639328003
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.5555555555555556,0.7818642497062683
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.05263157894736842,0.7261096239089966
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.2777777777777778,0.7932023882865906
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.05555555555555555,0.7037724852561951
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.0,
+gpt2_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.6111111111111112,0.7708770415999673
+gpt2_cleaned_embs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.07142857142857142,0.7500698268413544
+gpt2_cleaned_embs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.1875,0.7621499399344126
+gpt2_cleaned_embs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_embs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.625,0.7588919281959534
+gpt2_cleaned_embs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.375,0.7735022405783335
+gpt2_cleaned_embs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5652173913043478,0.7853486033586355
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.09224489795918367,0.21690606162677298
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.07716701902748414,0.22938811743300255
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.75,0.27677638000912136
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,0.5,0.2037167251110077
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.5267857142857143,0.3598451287552558
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.3248979591836735,0.34793717226940185
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.15061224489795919,0.2935160994529724
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.5203515263644773,0.38457537151707544
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.1254432624113475,0.311556074518197
+gpt2_cleaned_embs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.18164251207729468,0.3445452798871284
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.20114942528735633,0.2229816517659596
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.0872093023255814,0.26292713736042833
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.05357142857142857,0.21002093950907388
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.08181818181818182,0.19395481795072556
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.1068840579710145,0.25933595064838055
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.1125,0.2626503634232062
+gpt2_cleaned_embs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.12873563218390804,0.2277279092398073
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.5714285714285714,0.3296334374592536
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.5335968379446641,0.3245272520515654
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.1527777777777778,0.1661673824895512
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.12573099415204678,0.27991808153862174
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.13398692810457516,0.24878773238600754
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.01818181818181818,0.10825927183032036
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.42424242424242425,0.2083848223262349
+gpt2_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.1895424836601307,0.1942467838525772
+gpt2_cleaned_embs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.03968253968253968,0.1355800767739614
+gpt2_cleaned_embs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.02721774193548387,0.167274814788942
+gpt2_cleaned_embs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_embs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+gpt2_cleaned_embs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.004166666666666667,0.15956033766269684
+gpt2_cleaned_embs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.007905138339920948,0.12489964440464973
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.5930612244897959,0.6957988795623726
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.6744186046511628,0.7077554676413162
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7437877257664999
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7013706266880035
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.8707482993197279,0.7718064437212888
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.7253061224489796,0.7335904477416765
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.6310204081632653,0.7141269247636758
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.8246993524514339,0.7617578225996945
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.5474290780141844,0.7115844061982777
+gpt2_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.7086956521739131,0.742216336946546
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.732183908045977,0.7073862110052603
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.5761099365750528,0.706690890964018
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.5892857142857143,0.6792494239229144
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.5363636363636364,0.6862739385184595
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.3713768115942029,0.6570695132744021
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.7291666666666666,0.7097145955903189
+gpt2_cleaned_unembs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.7574712643678161,0.6956598711665013
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.873015873015873,0.7707105071255655
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.3359683794466403,0.7053100319469676
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.375,0.6937241951624552
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.49122807017543857,0.6820305741968609
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.43137254901960786,0.6673026911237023
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.00909090909090909,0.6500563025474548
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.016339869281045753,0.6152684569358826
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.38324420677361853,0.6745309358419374
+gpt2_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.5196078431372549,0.6900933553587716
+gpt2_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.082010582010582,0.6413080701904912
+gpt2_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.15120967741935484,0.6483497214317322
+gpt2_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.19642857142857142,0.6581715941429138
+gpt2_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.3541666666666667,0.6652108080246869
+gpt2_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.2826086956521739,0.666217157473931
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.82,0.7338351156653428
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8636363636363636,0.7494091799384669
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7858115881681442
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7013706266880035
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9183673469387755,0.8313758214314778
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.84,0.7883395382336208
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.7,0.7748549359185355
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.851063829787234,0.8300016790628433
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.5625,0.7941461757377342
+gpt2_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.782608695652174,0.8107654104630152
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.8666666666666667,0.7643583600337689
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.7727272727272727,0.7521841981831718
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.75,0.7215999861558279
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.7272727272727273,0.7420983761548996
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5833333333333334,0.6936735766274589
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8125,0.7754091299497164
+gpt2_cleaned_unembs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.8666666666666667,0.7542931116544284
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,1.0,0.8271479713065284
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.8260869565217391,0.7686008685513547
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.7777777777777778,0.8059954983847482
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.9473684210526315,0.7467069327831268
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.7777777777777778,0.7303409704140255
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.36363636363636365,0.6951884478330612
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.5,0.6865225732326508
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.5555555555555556,0.7002527236938476
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.7647058823529411,0.7189893103562869
+gpt2_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.6111111111111112,0.7398235201835632
+gpt2_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.07142857142857142,0.6770211458206177
+gpt2_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.34375,0.6902875304222107
+gpt2_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.25,0.7041842341423035
+gpt2_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5,0.7085694372653961
+gpt2_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.34782608695652173,0.7230678126215935
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.64,0.7219833265990019
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.6818181818181818,0.7275494654973348
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,0.25,0.6634655594825745
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,0.0,
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.6326530612244898,0.7762354304713588
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.5,0.7472721695899963
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.42,0.7653946365628924
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.3191489361702128,0.752487317721049
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.375,0.7643702162636651
+gpt2_cleaned_unembs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.43478260869565216,0.8069106996059418
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.5666666666666667,0.75501750497257
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.4090909090909091,0.7368083828025394
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.25,0.6793047785758972
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.2727272727272727,0.700173536936442
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.16666666666666666,0.7031664848327637
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.5,0.7446080446243286
+gpt2_cleaned_unembs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.5666666666666667,0.7378070985569674
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.7142857142857143,0.7932195603847504
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.0,
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.3333333333333333,0.7262751261393229
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.10526315789473684,0.6970426440238953
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.16666666666666666,0.6960057020187378
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.029411764705882353,0.6704128980636597
+gpt2_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.3333333333333333,0.7618592381477356
+gpt2_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.03571428571428571,0.6467981934547424
+gpt2_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.09375,0.6909972627957662
+gpt2_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.125,0.7699800729751587
+gpt2_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.375,0.7390502293904623
+gpt2_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.30434782608695654,0.7370321410042899
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.08693877551020408,0.27717959681447124
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.1379492600422833,0.341636477759058
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.8333333333333334,0.4486902326345444
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,0.5,0.3059787452220917
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.5276360544217688,0.39594017676438753
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.29346938775510206,0.3922854297598811
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.17224489795918368,0.34071631937936586
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.5106382978723404,0.4426316971472208
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.13829787234042554,0.37391336204913944
+gpt2_cleaned_unembs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.263768115942029,0.41663631062695394
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.1781609195402299,0.25410551943125265
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.11152219873150106,0.2993111615003003
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.16071428571428573,0.37662941548559403
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.13636363636363635,0.2011600375175476
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.07065217391304347,0.27600158827427107
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.19166666666666668,0.3447972516650739
+gpt2_cleaned_unembs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.2103448275862069,0.27143406391632363
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.458994708994709,0.3632665443145576
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.2549407114624506,0.3079116190819777
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.125,0.1225452646613121
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.21637426900584794,0.28132510306061925
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.17973856209150327,0.29415065266869284
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0032679738562091504,0.14584557712078094
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.39037433155080214,0.25528034377315817
+gpt2_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.16666666666666666,0.20005438374538048
+gpt2_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.04894179894179894,0.19216533025374283
+gpt2_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.028225806451612902,0.19813060760498047
+gpt2_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+gpt2_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.004166666666666667,0.16958394646644592
+gpt2_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.03162055335968379,0.1521431904984638
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9575510204081633,0.7520987864548796
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8763213530655392,0.7621244164082627
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8237136254707972
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7901092171669006
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9336734693877551,0.8328635011051522
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9171428571428571,0.7867146735728238
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.773061224489796,0.7569403628864912
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9222941720629048,0.811081884767012
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.648936170212766,0.7471629047735793
+gpt2_raw_embs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.7777777777777778,0.7867227985251765
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7816091954022989,0.747203326049973
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.678646934460888,0.7455646258276942
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.9285714285714286,0.7407576006192428
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.6090909090909091,0.7353149305528669
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5416666666666666,0.7216238726341605
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8125,0.7561804132583814
+gpt2_raw_embs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9091954022988505,0.7482020554289354
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9933862433862434,0.8162596263041033
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.5928853754940712,0.7452246981859207
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.4722222222222222,0.7298844088526333
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.3713450292397661,0.7158020889665199
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.5359477124183006,0.7277602320764123
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.02727272727272727,0.6807431181271871
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.38859180035650626,0.6759679270993679
+gpt2_raw_embs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.6764705882352942,0.7565051616677916
+gpt2_raw_embs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.0873015873015873,0.691082980596658
+gpt2_raw_embs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.1693548387096774,0.7019740438887051
+gpt2_raw_embs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_raw_embs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.3392857142857143,0.6953772180958798
+gpt2_raw_embs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5,0.7171722665429116
+gpt2_raw_embs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.4367588932806324,0.7236635382898253
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,1.0,0.8209114074707031
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9090909090909091,0.8277967616915702
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8604055643081665
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7901092171669006
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9387755102040817,0.8924045510914015
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.98,0.8503404648936524
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.96,0.8165628251930078
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9574468085106383,0.8735559516482883
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.8333333333333334,0.8104333505034447
+gpt2_raw_embs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.8695652173913043,0.8545411646366119
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.9333333333333333,0.8059109364237104
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8636363636363636,0.8082357048988342
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.875,0.8031353184155056
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.7272727272727273,0.7942564710974693
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.7083333333333334,0.7854654543540057
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.875,0.8237830911363874
+gpt2_raw_embs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9666666666666667,0.8182194767327144
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,1.0,0.8773119364465986
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.9130434782608695,0.8276740596407935
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,1.0,0.8067488272984823
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.9473684210526315,0.7801222933663262
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.8333333333333334,0.8003515919049581
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.6363636363636364,0.7312754477773394
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.25,0.7513602375984192
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.5,0.7547131445672777
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.9117647058823529,0.7539985622129133
+gpt2_raw_embs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.7222222222222222,0.8275077022038974
+gpt2_raw_embs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.17857142857142858,0.7470980286598206
+gpt2_raw_embs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.3125,0.7509661138057708
+gpt2_raw_embs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_raw_embs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.625,0.7419527530670166
+gpt2_raw_embs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5,0.793790377676487
+gpt2_raw_embs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5217391304347826,0.7964930286010107
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.96,0.8046408295631409
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8863636363636364,0.8076885953927652
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8212497532367706
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.770738810300827
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9387755102040817,0.8374596782352614
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.88,0.817136512561278
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.62,0.8107856300569349
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.7446808510638298,0.8202547907829285
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.3541666666666667,0.8038269035956439
+gpt2_raw_embs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.5652173913043478,0.847192074243839
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.6666666666666666,0.8001661509275436
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.6136363636363636,0.7931326936792444
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.875,0.7876363141196114
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.45454545454545453,0.782645583152771
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.25,0.7869945764541626
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.5625,0.8125677969720628
+gpt2_raw_embs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.6666666666666666,0.8052883803844452
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9285714285714286,0.8367760525299952
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.0,
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.6666666666666666,0.7760977347691854
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.05263157894736842,0.7851120233535767
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.2222222222222222,0.7893323749303818
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.058823529411764705,0.7220145761966705
+gpt2_raw_embs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.6666666666666666,0.8001561065514883
+gpt2_raw_embs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.10714285714285714,0.7588314414024353
+gpt2_raw_embs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.15625,0.7640727758407593
+gpt2_raw_embs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.25,0.7186205387115479
+gpt2_raw_embs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.5,0.7563599646091461
+gpt2_raw_embs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5,0.8042145073413849
+gpt2_raw_embs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.4782608695652174,0.8102687922391024
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.08530612244897959,0.21449704835431999
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.113107822410148,0.2514949005062335
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.8333333333333334,0.3281573385000229
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.30921582877635956
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.6322278911564626,0.3819507159438002
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.3036734693877551,0.35258051765061194
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.1689795918367347,0.29660790719559804
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.5781683626271971,0.4015320458650589
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.12367021276595745,0.31392513861792914
+gpt2_raw_embs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.2463768115942029,0.37046595952090094
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.18160919540229886,0.21936639214429673
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.09513742071881606,0.2558933445562919
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.05357142857142857,0.1657011757294337
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.10909090909090909,0.17865995379785696
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.07789855072463768,0.2410193349039832
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.1625,0.28336689028984463
+gpt2_raw_embs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.20229885057471264,0.2436798567968336
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.578042328042328,0.33855934233087154
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.391304347826087,0.2986931098681508
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.1388888888888889,0.14673978164792062
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.16666666666666666,0.26057757437229156
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.13071895424836602,0.24781611301004886
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.02727272727272727,0.18615900228420892
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.4554367201426025,0.1853088087487944
+gpt2_raw_embs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.21568627450980393,0.23828362289703253
+gpt2_raw_embs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.031746031746031744,0.1313282580425342
+gpt2_raw_embs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.037298387096774195,0.18273607842825554
+gpt2_raw_embs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+gpt2_raw_embs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+gpt2_raw_embs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.016666666666666666,0.11836911924183369
+gpt2_raw_embs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.009881422924901186,0.09826466403901576
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9857142857142858,0.6610780816147293
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9027484143763214,0.6895673708418772
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7096847196420034
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.685297966003418
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9723639455782312,0.7194458413551508
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9987755102040816,0.7155231414983162
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.9253061224489796,0.691517173376281
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9357076780758556,0.7317920391711632
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9454787234042553,0.6955348378998317
+pythia_cleaned_embs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9420289855072463,0.7098707008667481
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.9241379310344827,0.6542638021322033
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.9180761099365751,0.668117820084198
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.6520545024956975
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.509090909090909,0.6289480062467712
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.4076086956521739,0.6121470181147257
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8875,0.6593802145948993
+pythia_cleaned_embs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.960919540229885,0.6713674486966795
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9722222222222222,0.6804520645920111
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.32608695652173914,0.6385560234387716
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.4027777777777778,0.6425857646711941
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.1783625730994152,0.6098993293574599
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.30718954248366015,0.6135644215218564
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.00909090909090909,0.566376268863678
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0032679738562091504,0.589013397693634
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.3850267379679144,0.5941534627366949
+pythia_cleaned_embs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.7287581699346405,0.6620041979267993
+pythia_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.10582010582010581,0.6005868926644325
+pythia_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.1431451612903226,0.608711066380353
+pythia_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.4642857142857143,0.5976564930035517
+pythia_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.4125,0.6273640069094572
+pythia_cleaned_embs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.4407114624505929,0.6287727374667009
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,1.0,0.7268084645271301
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9318181818181818,0.7523609457946405
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7504111677408218
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.685297966003418
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.7849928177132899
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,1.0,0.7857384121418
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.96,0.757858165850242
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9361702127659575,0.8061859120022167
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9583333333333334,0.7666440256263899
+pythia_cleaned_embs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9565217391304348,0.7815577035600488
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.9666666666666667,0.7145305070383795
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.9545454545454546,0.7326286591234661
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.7040948644280434
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.7272727272727273,0.6717272028326988
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5,0.6594749142726263
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.9375,0.7172619462013244
+pythia_cleaned_embs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9666666666666667,0.7389652523501166
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,1.0,0.7452075438840049
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.8695652173913043,0.6999112159013748
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,1.0,0.7198477453655667
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.7368421052631579,0.6608279262270246
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.7777777777777778,0.67565370457513
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.6363636363636364,0.6561054076467242
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.5,0.6535240411758423
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.5555555555555556,0.6750891208648682
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.7941176470588235,0.6744480861557854
+pythia_cleaned_embs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.8333333333333334,0.7121528506278991
+pythia_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.35714285714285715,0.6215364217758179
+pythia_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.28125,0.6487570736143324
+pythia_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.75,0.6295691629250845
+pythia_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5,0.6650746837258339
+pythia_cleaned_embs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5652173913043478,0.6712424846795889
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.98,0.7154286175358052
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9090909090909091,0.7428249344229698
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7078905999660492
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.6692452430725098
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.7653744111255724
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,1.0,0.7667936265468598
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.96,0.7438564176360766
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9361702127659575,0.7836863832040266
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9583333333333334,0.7525132415087327
+pythia_cleaned_embs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9347826086956522,0.7695738285086876
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7,0.7043601473172506
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8636363636363636,0.7050001213425084
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.678207278251648
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.6363636363636364,0.6357541935784476
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.2916666666666667,0.6552513582365853
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.875,0.7042676040104457
+pythia_cleaned_embs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9333333333333333,0.714574300817081
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9285714285714286,0.7044780483612647
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.0,
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.3333333333333333,0.6447538137435913
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.0,
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.1111111111111111,0.6971701681613922
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.0,
+pythia_cleaned_embs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.7777777777777778,0.7017667123249599
+pythia_cleaned_embs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.07142857142857142,0.6397014260292053
+pythia_cleaned_embs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.15625,0.6561890125274659
+pythia_cleaned_embs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_embs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.625,0.6372887372970581
+pythia_cleaned_embs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5,0.6750221848487854
+pythia_cleaned_embs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5652173913043478,0.6794828314047593
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.04,0.13241941485630007
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.06501057082452431,0.11529336336666976
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.5833333333333334,0.21676265554768698
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.17007558047771454
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.20833333333333334,0.13191105363016226
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.18857142857142858,0.1417421619629576
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.0963265306122449,0.13233156282833572
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.3307123034227567,0.162169318286689
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.12588652482269502,0.15463381781387078
+pythia_cleaned_embs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.15603864734299516,0.1608428083383262
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.16551724137931034,0.1259263302716944
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.13477801268498943,0.1548156735067274
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.14285714285714285,0.14481340441852808
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.1,0.18088766932487488
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.025362318840579712,0.12614390280629909
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.0875,0.1433568728112039
+pythia_cleaned_embs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.11379310344827587,0.14948334138501773
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.3611111111111111,0.19128545286345394
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.24110671936758893,0.2489207004670237
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.3611111111111111,0.11479895984610686
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.13157894736842105,0.2188167545530531
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.07516339869281045,0.14908122141724048
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0032679738562091504,0.16566985845565796
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.4269162210338681,0.14568940100565336
+pythia_cleaned_embs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.15359477124183007,0.13599689883437563
+pythia_cleaned_embs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.046296296296296294,0.10553708693810872
+pythia_cleaned_embs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.021169354838709676,0.11408290125074841
+pythia_cleaned_embs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_embs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+pythia_cleaned_embs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.0,
+pythia_cleaned_embs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.007905138339920948,0.11440474726259708
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9755102040816327,0.7072411940935766
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8535940803382663,0.713508738083736
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7820847630500793
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7506858706474304
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9715136054421769,0.7768361667313775
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9677551020408163,0.7414317891749588
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.8608163265306122,0.7183230702150145
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9648473635522664,0.7575935328223904
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.7548758865248227,0.7042908281070376
+pythia_cleaned_unembs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.8714975845410629,0.7427308544549603
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.5,0.6536424160003662
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.803448275862069,0.6783250069754659
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8609936575052854,0.690025794754883
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.6855672204068729
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.509090909090909,0.6437804028391838
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5507246376811594,0.6428962647914886
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.9583333333333334,0.7183614360249561
+pythia_cleaned_unembs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.957471264367816,0.6952771334087148
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9722222222222222,0.7365645596770202
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.5553359683794467,0.6747990435128535
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.4583333333333333,0.6620778405305111
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.24561403508771928,0.6339744400410425
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.3888888888888889,0.6335705663977551
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.07272727272727272,0.5888092368841171
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.013071895424836602,0.5780188739299774
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.4358288770053476,0.6276066643328755
+pythia_cleaned_unembs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.8366013071895425,0.6987814160529524
+pythia_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.10978835978835978,0.6041988357003912
+pythia_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.19959677419354838,0.6373662217096849
+pythia_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.44642857142857145,0.6181149196624756
+pythia_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.6125,0.6460746360473892
+pythia_cleaned_unembs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.4644268774703557,0.6348906070628064
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,1.0,0.7757588243484497
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8409090909090909,0.7866456025355572
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8206187635660172
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7506858706474304
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9795918367346939,0.8425520596404871
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,1.0,0.8085416495800019
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.92,0.7848929672137551
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9787234042553191,0.826402652522792
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.8333333333333334,0.7705282673239708
+pythia_cleaned_unembs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.8913043478260869,0.8182286125857655
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.5,0.6536424160003662
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.8333333333333334,0.7420983242988587
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.9318181818181818,0.7524835103895606
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.7428407818078995
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.6363636363636364,0.6972816841942924
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.7083333333333334,0.6919302204075981
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,1.0,0.7819722667336464
+pythia_cleaned_unembs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,1.0,0.7622698048750559
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9642857142857143,0.8093497179172657
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.9130434782608695,0.7566167343230474
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.8888888888888888,0.7507304474711418
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.6842105263157895,0.6775330259249761
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.7777777777777778,0.6963831995214734
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.5454545454545454,0.6823338667551676
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.5,0.6648371517658234
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.5,0.6775745683246188
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.8529411764705882,0.6941592200049038
+pythia_cleaned_unembs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.8888888888888888,0.7595825232565403
+pythia_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.25,0.6399007780211312
+pythia_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.34375,0.6579226526347074
+pythia_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.625,0.6575947165489197
+pythia_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.6875,0.7009103406559337
+pythia_cleaned_unembs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.4782608695652174,0.6959270780736749
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,1.0,0.7594748878479004
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.8409090909090909,0.7645806621860813
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7532049119472504
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.6752151846885681
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9591836734693877,0.7814749682203253
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.94,0.7695875370756109
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.88,0.7574624446305361
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9148936170212766,0.7616491899933926
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.7291666666666666,0.7491385510989598
+pythia_cleaned_unembs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.8260869565217391,0.7832358401072653
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.5,0.7515894770622253
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.6333333333333333,0.7141507895369279
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8409090909090909,0.7206452569446048
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.7094656303524971
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.45454545454545453,0.678911542892456
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.25,0.6870487233002981
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8125,0.7646139172407297
+pythia_cleaned_unembs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9333333333333333,0.7376971138375146
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.8928571428571429,0.7334927296638489
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.043478260869565216,0.6967660188674927
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.5555555555555556,0.6802511930465698
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.05263157894736842,0.6453336477279663
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.1111111111111111,0.6910053193569183
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.0,
+pythia_cleaned_unembs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.7777777777777778,0.7272205778530666
+pythia_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.10714285714285714,0.6261066595713297
+pythia_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.21875,0.68057952608381
+pythia_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.5,0.6775114685297012
+pythia_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.6875,0.7078670263290405
+pythia_cleaned_unembs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5652173913043478,0.6919728334133441
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.0946938775510204,0.22043893425243682
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.12579281183932348,0.23222002822185764
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.9166666666666666,0.3366625959222967
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.40388914942741394
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.6164965986394558,0.3369170332520173
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.3326530612244898,0.32777458493329265
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.17673469387755103,0.29054538666444896
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.5555041628122109,0.35159709924315535
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.13829787234042554,0.29704878727595013
+pythia_cleaned_unembs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.3130434782608696,0.36332830009453093
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.19770114942528735,0.21552874728344207
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.10042283298097252,0.241378339929016
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.21428571428571427,0.26752912004788715
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.05454545454545454,0.17506838341554007
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.08695652173913043,0.2290063975378871
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.37916666666666665,0.2884955686199796
+pythia_cleaned_unembs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.1793103448275862,0.22442500804288265
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.48677248677248675,0.34612513422642066
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.39723320158102765,0.28273141736266627
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.3333333333333333,0.11778316895167033
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.13157894736842105,0.24612227661742103
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.1437908496732026,0.237376599826596
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.06363636363636363,0.16527602076530457
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.5008912655971479,0.1899179546593347
+pythia_cleaned_unembs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.3366013071895425,0.2317162110533529
+pythia_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.03835978835978836,0.12743513774255227
+pythia_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.04133064516129032,0.19335236573001233
+pythia_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+pythia_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.004166666666666667,0.10511629283428192
+pythia_cleaned_unembs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.019762845849802372,0.13575613349676133
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9746938775510204,0.6772890231966773
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9011627906976745,0.6875639920710119
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7079951763153076
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.6729400157928467
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9872448979591837,0.7180415516675904
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9824489795918367,0.7056201052804384
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.9546938775510204,0.695413941753986
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.996299722479186,0.728194549057145
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9729609929078015,0.6931992344812815
+pythia_raw_embs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.993719806763285,0.7170387037935104
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.9126436781609195,0.6550594520208517
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.9439746300211417,0.6587304021049321
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.6410979852080345
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.5272727272727272,0.6230489858265581
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.4166666666666667,0.6160300931204921
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8416666666666667,0.661022829242272
+pythia_raw_embs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9551724137931035,0.6658206782186075
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9603174603174603,0.6779246528122379
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.5711462450592886,0.6293167511072126
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.4444444444444444,0.6399971377104521
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.36257309941520466,0.6181950540311875
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.3758169934640523,0.6137271938116654
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.00909090909090909,0.5663751363754272
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.45187165775401067,0.6002640449083768
+pythia_raw_embs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.7189542483660131,0.6832825227217241
+pythia_raw_embs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.08333333333333333,0.586365144404154
+pythia_raw_embs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.18951612903225806,0.6083421732516999
+pythia_raw_embs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_raw_embs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.26785714285714285,0.6049625198046367
+pythia_raw_embs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5791666666666667,0.6282955725416005
+pythia_raw_embs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.41699604743083,0.6239279875823107
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.98,0.7463207196216194
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9090909090909091,0.7542091533541679
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7489570677280426
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.6729400157928467
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.785765747634732
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.98,0.7766241577206826
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.98,0.7623246956844719
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,1.0,0.7995372363861571
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,1.0,0.7611112693945566
+pythia_raw_embs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,1.0,0.7887950863527216
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.9333333333333333,0.7170570684330804
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.9772727272727273,0.7225606330605441
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.691011056303978
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.7272727272727273,0.6681774333119392
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5833333333333334,0.6555264294147491
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.875,0.7187399395874569
+pythia_raw_embs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9666666666666667,0.7315417014319321
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,1.0,0.7410517420087542
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.9565217391304348,0.7136202319101854
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,1.0,0.7234586278597513
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.8421052631578947,0.6859934031963348
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.7222222222222222,0.6885040494111868
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.5454545454545454,0.6604885359605154
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.5,0.6555754244327545
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.5555555555555556,0.671076375246048
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.8529411764705882,0.6841106085941709
+pythia_raw_embs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.7777777777777778,0.7459279341357095
+pythia_raw_embs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.35714285714285715,0.6198213517665863
+pythia_raw_embs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.4375,0.6402886297021594
+pythia_raw_embs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_raw_embs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.5,0.641580656170845
+pythia_raw_embs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.75,0.6683511684338251
+pythia_raw_embs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5217391304347826,0.665422593553861
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.98,0.734145281266193
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9090909090909091,0.7401081591844558
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7082318365573883
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.6559240221977234
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.7646373279240667
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.98,0.7585779890722159
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.98,0.7471282798416761
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,1.0,0.7762926639394557
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9791666666666666,0.7482582368749253
+pythia_raw_embs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9782608695652174,0.7765621980031331
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7666666666666667,0.6967042373574298
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.9090909090909091,0.6941990748047828
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.6630393862724304
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.6363636363636364,0.6272165179252625
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.25,0.6511431733767191
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8125,0.7056501966256362
+pythia_raw_embs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9,0.7083236729657209
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.8928571428571429,0.7049383115768433
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.0,
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.3333333333333333,0.6447580059369405
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.10526315789473684,0.6195557415485382
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.16666666666666666,0.6658005317052206
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.058823529411764705,0.5876222848892212
+pythia_raw_embs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.7222222222222222,0.7344272365936866
+pythia_raw_embs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.07142857142857142,0.607304722070694
+pythia_raw_embs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.21875,0.6410138181277684
+pythia_raw_embs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.25,0.6057491302490234
+pythia_raw_embs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.375,0.653700053691864
+pythia_raw_embs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.75,0.678069993853569
+pythia_raw_embs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5652173913043478,0.6682409323178805
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.05183673469387755,0.1250082143531071
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.07135306553911205,0.12173970885988739
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.4166666666666667,0.23223986625671386
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,0.5,0.16813470423221588
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.2227891156462585,0.13087522720505718
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.16163265306122448,0.1351728325408667
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.11551020408163265,0.1373027045108615
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.34551341350601295,0.1589495622798541
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.13297872340425532,0.15543148731191953
+pythia_raw_embs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.19855072463768117,0.16411550607704478
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.16896551724137931,0.1315652165485888
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.10887949260042283,0.15922024332493254
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.08928571428571429,0.16803406476974486
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.11818181818181818,0.17388859047339514
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.02717391304347826,0.12728860999147099
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.1125,0.16063688750620242
+pythia_raw_embs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.10804597701149425,0.14307414867142412
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.3333333333333333,0.18923922891299877
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.37351778656126483,0.19422827641326915
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.3194444444444444,0.09446594920819221
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.19005847953216373,0.2024549065874173
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.0784313725490196,0.1586700091138482
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.5062388591800356,0.1478479946897903
+pythia_raw_embs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.17320261437908496,0.14423594887385954
+pythia_raw_embs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.03306878306878307,0.11407071873545646
+pythia_raw_embs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.025201612903225805,0.11464703112840652
+pythia_raw_embs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_raw_embs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+pythia_raw_embs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.0,
+pythia_raw_embs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.003952569169960474,0.11828261241316795
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9551020408163265,0.7268447871136869
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9059196617336153,0.7444968435352575
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7835132082303365
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7668189704418182
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9651360544217688,0.7880765123776927
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9469387755102041,0.7480613551006234
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.8469387755102041,0.7166434139803232
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9296947271045328,0.7679939653742965
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.7229609929078015,0.7037549377730257
+pythia_raw_unembs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.8879227053140096,0.7373630714170043
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.8022988505747126,0.7037847391343048
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.781183932346723,0.6991409258123018
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.6980529299804142
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.6454545454545455,0.6732781991152696
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5507246376811594,0.67286466807127
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.7916666666666666,0.7139041088129344
+pythia_raw_unembs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9701149425287356,0.7086952508767069
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9761904761904762,0.7515717015518406
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.5612648221343873,0.6902838028232816
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.5138888888888888,0.6765754496729052
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.35964912280701755,0.6574264231736098
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.38235294117647056,0.659712786348457
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.4928698752228164,0.6305960760625319
+pythia_raw_unembs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.7156862745098039,0.7067542190421118
+pythia_raw_unembs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.04894179894179894,0.6119493036656767
+pythia_raw_unembs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.18044354838709678,0.6439184619727747
+pythia_raw_unembs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_raw_unembs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.42857142857142855,0.6400607253114382
+pythia_raw_unembs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.7833333333333333,0.6642074791040826
+pythia_raw_unembs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.35177865612648224,0.6805306200900775
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.98,0.7964930570855433
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9090909090909091,0.8137133598327637
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8233429491519928
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7668189406394958
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9795918367346939,0.8515144574145476
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.98,0.8157966769471461
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.96,0.7791127103070418
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9574468085106383,0.8349819699923198
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.8541666666666666,0.766923815738864
+pythia_raw_unembs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9565217391304348,0.8050613078204069
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.8666666666666667,0.7662236644671514
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.8863636363636364,0.7623503605524699
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.7555624842643738
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.8181818181818182,0.722478191057841
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.5833333333333334,0.7341620368616921
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.8125,0.7861544489860535
+pythia_raw_unembs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,1.0,0.7782475213209789
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9642857142857143,0.8242844740549723
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.8695652173913043,0.777532035112381
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.8888888888888888,0.7710069566965103
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.7894736842105263,0.7186971624692281
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.6666666666666666,0.7346056401729584
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.5454545454545454,0.6795436143875122
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.25,0.6916263699531555
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.6111111111111112,0.6861362619833513
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.8823529411764706,0.7119162996610006
+pythia_raw_unembs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.8333333333333334,0.761250086625417
+pythia_raw_unembs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.14285714285714285,0.6504858881235123
+pythia_raw_unembs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.25,0.6979003176093102
+pythia_raw_unembs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_raw_unembs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.75,0.6775734821955363
+pythia_raw_unembs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.8125,0.7255018674410306
+pythia_raw_unembs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.43478260869565216,0.7400940835475922
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.94,0.7777698826282582
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.9090909090909091,0.7871195957064628
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.7581493109464645
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.7278940975666046
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9591836734693877,0.7953679840615455
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.98,0.7709174168353178
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.86,0.7593277096748352
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.851063829787234,0.7762611970305443
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.5,0.7665140057603518
+pythia_raw_unembs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.7608695652173914,0.7863515751702445
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.6666666666666666,0.7436193495988845
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.75,0.7337245760541974
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,1.0,0.73016457259655
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.5454545454545454,0.7156714200973511
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.3333333333333333,0.7190907970070839
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.75,0.765657772620519
+pythia_raw_unembs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.9333333333333333,0.7534382279430117
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9285714285714286,0.7526986255095556
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.08695652173913043,0.7305384278297424
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.5555555555555556,0.7145346403121948
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.0,
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.1111111111111111,0.7332066297531128
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.0,
+pythia_raw_unembs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.7222222222222222,0.7316871331288264
+pythia_raw_unembs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.03571428571428571,0.6643505096435547
+pythia_raw_unembs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.15625,0.7178897380828857
+pythia_raw_unembs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_raw_unembs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.75,0.6859561999638876
+pythia_raw_unembs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.8125,0.7330622993982755
+pythia_raw_unembs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.43478260869565216,0.7485265016555787
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.10204081632653061,0.22735124480724334
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.1511627906976744,0.25399393755030797
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,0.8333333333333334,0.3050099492073059
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.28502073884010315
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.5654761904761905,0.3590589659162482
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.31142857142857144,0.3352928416093086
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.16653061224489796,0.27746071818047296
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.5393154486586494,0.35701439766721293
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.13120567375886524,0.3012332379364887
+pythia_raw_unembs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.2826086956521739,0.349299844309815
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.20229885057471264,0.21764975887807933
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.09249471458773785,0.24927193198885236
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.05357142857142857,0.28584371010462445
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.11818181818181818,0.16704166107452834
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.1105072463768116,0.20505885315723107
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.18333333333333332,0.28081902692263777
+pythia_raw_unembs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.22758620689655173,0.23696491201267098
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.5211640211640212,0.34884388949060197
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.41699604743083,0.2863155965697709
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.3194444444444444,0.11150655134216599
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.2894736842105263,0.3137646291141558
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.13725490196078433,0.2385998691121737
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.00909090909090909,0.18903802335262299
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.5998217468805704,0.24967370190025262
+pythia_raw_unembs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.30392156862745096,0.22533066939282162
+pythia_raw_unembs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.04365079365079365,0.13325464127190184
+pythia_raw_unembs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.034274193548387094,0.1922036955023513
+pythia_raw_unembs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+pythia_raw_unembs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+pythia_raw_unembs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.004166666666666667,0.15401530265808105
+pythia_raw_unembs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.025691699604743084,0.1522902101278305
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9106122448979592,0.7964828467219467
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.7267441860465116,0.7851097878542813
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.8690902044375738
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.8542029857635498
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.9982993197278912,0.838697168373168
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.9191836734693878,0.8237537544214069
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.9183673469387755,0.8139775815010071
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9218316373728029,0.8030585614030706
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.8945035460992907,0.8003428999567174
+word2vec_embs,3CosAdd,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9246376811594202,0.8079024107665478
+word2vec_embs,3CosAdd,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+word2vec_embs,3CosAdd,2_Derivational_morphology,D02 [un+adj_reg].txt,0.6091954022988506,0.7417079818698595
+word2vec_embs,3CosAdd,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.6088794926004228,0.7461865017604496
+word2vec_embs,3CosAdd,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.6607142857142857,0.7347072121259328
+word2vec_embs,3CosAdd,2_Derivational_morphology,D07 [verb+able_reg].txt,0.3,0.7208016099351825
+word2vec_embs,3CosAdd,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.266304347826087,0.7054786138794049
+word2vec_embs,3CosAdd,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.5,0.7404887244105339
+word2vec_embs,3CosAdd,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.6977011494252874,0.7344197434491342
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E01 [country - capital].txt,0.9973544973544973,0.8433544427077397
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E02 [country - language].txt,0.7094861660079052,0.7564270194194443
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.2777777777777778,0.7665724962949753
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.22807017543859648,0.7106029941485479
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.31699346405228757,0.7190478794353524
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E06 [animal - young].txt,0.13636363636363635,0.7218706289927165
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0915032679738562,0.6816489504916328
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E09 [things - color].txt,0.38235294117647056,0.7308494775167435
+word2vec_embs,3CosAdd,3_Encyclopedic_semantics,E10 [male - female].txt,0.8169934640522876,0.8377397921085358
+word2vec_embs,3CosAdd,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.18783068783068782,0.7153557110840166
+word2vec_embs,3CosAdd,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.1693548387096774,0.7175814580349695
+word2vec_embs,3CosAdd,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+word2vec_embs,3CosAdd,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.44642857142857145,0.71977712392807
+word2vec_embs,3CosAdd,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.5291666666666667,0.753275842178525
+word2vec_embs,3CosAdd,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5138339920948617,0.745023199915886
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.92,0.8654810190200806
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.75,0.8556848150311094
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.9012001156806946
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.8542029857635498
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,1.0,0.8966254020223812
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.94,0.8875870083240752
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.94,0.880156028777995
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.9574468085106383,0.8650132152769301
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.9583333333333334,0.8606801888217097
+word2vec_embs,3CosAvg,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.9347826086956522,0.8778886351474496
+word2vec_embs,3CosAvg,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+word2vec_embs,3CosAvg,2_Derivational_morphology,D02 [un+adj_reg].txt,0.7333333333333333,0.8072946694764224
+word2vec_embs,3CosAvg,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.7045454545454546,0.8146175011511771
+word2vec_embs,3CosAvg,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.625,0.7998639702796936
+word2vec_embs,3CosAvg,2_Derivational_morphology,D07 [verb+able_reg].txt,0.36363636363636365,0.7790469080209732
+word2vec_embs,3CosAvg,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.3333333333333333,0.7657266706228256
+word2vec_embs,3CosAvg,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.6875,0.7966419133273038
+word2vec_embs,3CosAvg,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.8666666666666667,0.7978693819963015
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E01 [country - capital].txt,1.0,0.898660700236048
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E02 [country - language].txt,0.9565217391304348,0.8339435268532146
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.6666666666666666,0.8680559198061625
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.7894736842105263,0.754699691136678
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.6666666666666666,0.7710913270711899
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E06 [animal - young].txt,0.45454545454545453,0.7868064761161804
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.5555555555555556,0.755001574754715
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E09 [things - color].txt,0.7647058823529411,0.7883953841832968
+word2vec_embs,3CosAvg,3_Encyclopedic_semantics,E10 [male - female].txt,0.8333333333333334,0.8994815627733866
+word2vec_embs,3CosAvg,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.25,0.7840332644326347
+word2vec_embs,3CosAvg,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.28125,0.7933989895714654
+word2vec_embs,3CosAvg,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+word2vec_embs,3CosAvg,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.375,0.8025074998537699
+word2vec_embs,3CosAvg,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.6875,0.8167019269683145
+word2vec_embs,3CosAvg,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5217391304347826,0.8268337200085322
+word2vec_embs,OnlyB,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.9,0.8435359981324938
+word2vec_embs,OnlyB,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.6818181818181818,0.8421493967374166
+word2vec_embs,OnlyB,1_Inflectional_morphology,I03 [adj - comparative].txt,0.75,0.8338988622029623
+word2vec_embs,OnlyB,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.8022994697093964
+word2vec_embs,OnlyB,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.8163265306122449,0.8322489082813262
+word2vec_embs,OnlyB,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.86,0.8505159741224244
+word2vec_embs,OnlyB,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.84,0.8404805745397296
+word2vec_embs,OnlyB,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.6382978723404256,0.8218482653299968
+word2vec_embs,OnlyB,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.8125,0.8438599843245286
+word2vec_embs,OnlyB,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.7391304347826086,0.8349288982503554
+word2vec_embs,OnlyB,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+word2vec_embs,OnlyB,2_Derivational_morphology,D02 [un+adj_reg].txt,0.5,0.7936857263247172
+word2vec_embs,OnlyB,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.4090909090909091,0.788856201701694
+word2vec_embs,OnlyB,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.5,0.7617577612400055
+word2vec_embs,OnlyB,2_Derivational_morphology,D07 [verb+able_reg].txt,0.0,
+word2vec_embs,OnlyB,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.041666666666666664,0.7790309190750122
+word2vec_embs,OnlyB,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.375,0.7949556708335876
+word2vec_embs,OnlyB,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.36666666666666664,0.7899452231147073
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E01 [country - capital].txt,0.8571428571428571,0.8253507936994234
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E02 [country - language].txt,0.043478260869565216,0.8025461435317993
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.1111111111111111,0.8232362270355225
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.10526315789473684,0.7432608306407928
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.2222222222222222,0.7760462462902069
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E06 [animal - young].txt,0.0,
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.0,
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E09 [things - color].txt,0.0,
+word2vec_embs,OnlyB,3_Encyclopedic_semantics,E10 [male - female].txt,0.6111111111111112,0.8506276228211143
+word2vec_embs,OnlyB,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.21428571428571427,0.7854779064655304
+word2vec_embs,OnlyB,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.125,0.8026649653911591
+word2vec_embs,OnlyB,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+word2vec_embs,OnlyB,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.5,0.8144389390945435
+word2vec_embs,OnlyB,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.6875,0.8274973251602866
+word2vec_embs,OnlyB,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.5217391304347826,0.8343222389618555
+word2vec_embs,PairDistance,1_Inflectional_morphology,I01 [noun - plural_reg].txt,0.14326530612244898,0.3194133870919206
+word2vec_embs,PairDistance,1_Inflectional_morphology,I02 [noun - plural_irreg].txt,0.09355179704016914,0.28880153124952046
+word2vec_embs,PairDistance,1_Inflectional_morphology,I03 [adj - comparative].txt,1.0,0.4948395515481631
+word2vec_embs,PairDistance,1_Inflectional_morphology,I04 [adj - superlative].txt,1.0,0.4824649691581726
+word2vec_embs,PairDistance,1_Inflectional_morphology,I05 [verb_inf - 3pSg].txt,0.6194727891156463,0.47665257238531733
+word2vec_embs,PairDistance,1_Inflectional_morphology,I06 [verb_inf - Ving].txt,0.40653061224489795,0.4701186544953819
+word2vec_embs,PairDistance,1_Inflectional_morphology,I07 [verb_inf - Ved].txt,0.3787755102040816,0.42562029592628625
+word2vec_embs,PairDistance,1_Inflectional_morphology,I08 [verb_Ving - 3pSg].txt,0.4204440333024977,0.41423097592179137
+word2vec_embs,PairDistance,1_Inflectional_morphology,I09 [verb_Ving - Ved].txt,0.25177304964539005,0.3814900037898144
+word2vec_embs,PairDistance,1_Inflectional_morphology,I10 [verb_3pSg - Ved].txt,0.3521739130434783,0.4664010418213608
+word2vec_embs,PairDistance,2_Derivational_morphology,D01 [noun+less_reg].txt,0.0,
+word2vec_embs,PairDistance,2_Derivational_morphology,D02 [un+adj_reg].txt,0.11379310344827587,0.3070969672666656
+word2vec_embs,PairDistance,2_Derivational_morphology,D03 [adj+ly_reg].txt,0.10042283298097252,0.36923789617262387
+word2vec_embs,PairDistance,2_Derivational_morphology,D05 [adj+ness_reg].txt,0.125,0.32218889466353823
+word2vec_embs,PairDistance,2_Derivational_morphology,D07 [verb+able_reg].txt,0.06363636363636363,0.39105462602206637
+word2vec_embs,PairDistance,2_Derivational_morphology,D08 [verb+er_irreg].txt,0.05615942028985507,0.3756745986400112
+word2vec_embs,PairDistance,2_Derivational_morphology,D09 [verb+tion_irreg].txt,0.09583333333333334,0.3276440190232318
+word2vec_embs,PairDistance,2_Derivational_morphology,D10 [verb+ment_irreg].txt,0.10229885057471265,0.361944250846177
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E01 [country - capital].txt,0.8042328042328042,0.5077276878843182
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E02 [country - language].txt,0.5612648221343873,0.43782201944522453
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E03 [UK_city - county].txt,0.2638888888888889,0.2899178227311687
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E04 [name - nationality].txt,0.10818713450292397,0.33356836518725835
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E05 [name - occupation].txt,0.10457516339869281,0.27751687192358077
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E06 [animal - young].txt,0.13636363636363635,0.24853870968023936
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E07 [animal - sound].txt,0.0,
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E08 [animal - shelter].txt,0.08496732026143791,0.2622221026283044
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E09 [things - color].txt,0.4590017825311943,0.3261020502563819
+word2vec_embs,PairDistance,3_Encyclopedic_semantics,E10 [male - female].txt,0.4542483660130719,0.4801238241920368
+word2vec_embs,PairDistance,4_Lexicographic_semantics,L04 [meronyms - substance].txt,0.022486772486772486,0.26132017812308145
+word2vec_embs,PairDistance,4_Lexicographic_semantics,L05 [meronyms - member].txt,0.02217741935483871,0.22135400772094727
+word2vec_embs,PairDistance,4_Lexicographic_semantics,L06 [meronyms - part].txt,0.0,
+word2vec_embs,PairDistance,4_Lexicographic_semantics,L07 [synonyms - intensity].txt,0.0,
+word2vec_embs,PairDistance,4_Lexicographic_semantics,L08 [synonyms - exact].txt,0.0125,0.2433459460735321
+word2vec_embs,PairDistance,4_Lexicographic_semantics,L10 [antonyms - binary].txt,0.003952569169960474,0.191722072660923
