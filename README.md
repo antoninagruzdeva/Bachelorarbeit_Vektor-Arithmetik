@@ -48,7 +48,7 @@ Dieses Projekt wurde mit **Python 3.12.0** entwickelt. Zum Ausführen der Skript
 
 ## Nutzung
 
-Zur Reproduktion der Experimente wird zunächst der **BATS 3.0 Datensatz** benötigt, der [hier](https://u.pcloud.link/publink/show?code=XZOn0J7Z8fzFMt7Tw1mGS6uI1SYfCfTyJQTV) öffentlich verfügbar ist. Dieser muss lokal gespeichert werden, z. B. im Ordner `data/BATS_original`.
+Zur Reproduktion der Experimente wird zunächst der **BATS 3.0 Datensatz** benötigt, der [hier](https://u.pcloud.link/publink/show?code=XZOn0J7Z8fzFMt7Tw1mGS6uI1SYfCfTyJQTV) öffentlich verfügbar ist. Dieser muss lokal gespeichert werden, z. B. im Ordner `data/BATS_3.0`.
 
 Anschließend erfolgt die Durchführung des Experiments in den folgenden Schritten:
 
