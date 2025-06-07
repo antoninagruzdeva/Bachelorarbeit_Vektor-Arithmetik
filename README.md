@@ -76,5 +76,5 @@ Dieses Projekt dient ausschließlich wissenschaftlichen und nicht-kommerziellen 
 ## Kontakt
 
 Für Rückfragen oder Feedback zur Arbeit:  
-**Antonina Gruzdeva** – [LMU-email](Antonina.Gruzdeva@campus.lmu.de)
+**Antonina Gruzdeva** – Antonina.Gruzdeva@campus.lmu.de
 
